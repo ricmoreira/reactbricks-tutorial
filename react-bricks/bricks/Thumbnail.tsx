@@ -53,7 +53,7 @@ Thumbnail.schema = {
   hideFromAddMenu: true,
   getDefaultProps: () => ({
     title: 'Vertical Name',
-    description: 'Lorem ipsum dolor sit amet.',
+    description: 'Vertical description',
     hasShadow: true,
     bgColor: { color: '#ffffff', className: 'bg-white' }
   }),
