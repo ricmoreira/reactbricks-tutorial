@@ -6,7 +6,7 @@ const Header: React.FC = () => (
     <div className="max-w-5xl mx-auto px-6">
       <div className="w-full flex flex-col sm:flex-row justify-center sm:justify-between items-center">
         <div className="flex flex-col sm:flex-row items-center mb-4 sm:mb-0">
-          <img src="/bolttech_logo.jpeg" className="w-48" alt="React Bricks" />
+          <img src="/bolttech_logo.svg" className="w-48" alt="React Bricks" />
           <div className="sm:ml-8 flex space-x-5 text-center">
             <Link href="/">
               <a className="text-gray-500 hover:text-pink-700">Home</a>
